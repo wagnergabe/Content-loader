@@ -81,6 +81,7 @@ img {
     #f6f7f8 100%
   );
   background-size: 200% 100%;
+  animation: bgPos 1s linear infinite;
 }
 
 .animated-bg-text {
